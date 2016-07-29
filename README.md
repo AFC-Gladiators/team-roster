@@ -9,7 +9,7 @@
 | 13 | Andrii Muravskyi      |    DB    |   180  |   77   |  26 |
 | 17 | Vitalii Moroz         |    CB    |   180  |   79   |  21 |
 | 19 | Hleb Polushkin        |    WR    |   180  |   81   |  21 |
-| 20 | Aleksandr Пlushchenko |   DB\FS  |   187  |   73   |  22 |
+| 20 | Aleksandr Glushchenko |   DB\FS  |   187  |   73   |  22 |
 | 28 | Yurii Kholmohorov     |    LB    |   185  |   82   |  20 |
 | 48 | Oleh Tsymbaliuk       |    LB    |   178  |   80   |  27 |
 | 50 | Artem Mazur           |   OL\DL  |   189  |   86   |  24 |
